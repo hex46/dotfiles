@@ -20,6 +20,8 @@ set wildmenu
 call plug#begin()
 
 " List your plugins here
+Plug 'vim-airline/vim-airline'
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
